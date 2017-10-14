@@ -1,4 +1,4 @@
-require './lib/frank_researcher'
+require 'frank_researcher'
 
 FrankResearcher.configure do |config|
   config.google_api_key = ENV['frank_google_api']
