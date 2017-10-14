@@ -1,6 +1,10 @@
 # Frank Researcher
 Ruby Client for Google [Custom Search](https://developers.google.com/custom-search/)
 
+## Instalation
+
+`gem install frank_researcher`
+
 
 ## Configuration
 
