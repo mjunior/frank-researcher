@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'frank_researcher'
-  s.version     = '0.1.1'
+  s.version     = '0.1.4'
   s.date        = '2017-10-14'
   s.summary     = "Frank Research"
   s.description = "Ruby client for Google Custom Search"

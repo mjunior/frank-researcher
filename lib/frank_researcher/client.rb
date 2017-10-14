@@ -11,14 +11,12 @@ module FrankResearcher
 
     def find params
       response = request(@base_url, params)
-      puts response
     end
 
     def request url, query
-      url << "&q=#{query}"
-      response = RestClient.get(url, headers={content_type: :json, accept: :json})
+      response = RestClient.get("#{url}&q=#{query}", headers={content_type: :json, accept: :json})
       if response.code == 200
-        response.body
+        JSON.parse(response.body, symbolize_names: true)
       end
     end
   end
