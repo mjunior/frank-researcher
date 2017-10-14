@@ -11,7 +11,6 @@ module FrankResearcher
 
     def find params
       response = request(@base_url, params)
-      puts response
     end
 
     def request url, query
