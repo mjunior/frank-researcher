@@ -16,7 +16,9 @@ Ruby Client for Google [Custom Search](https://developers.google.com/custom-sear
 FrankResearcher.configure do |config|
   config.google_api_key = ENV['frank_google_api']
   config.google_cx = ENV['frank_google_cx']
-end```
+end
+```
+
 
 ## Usage
 
