@@ -23,7 +23,15 @@ end
 ## Usage
 
 ```ruby
-FrankResearcher.search('Ruby on rails')
+require 'frank_researcher'
+
+response = FrankResearcher.search('Ruby on rails')
+
+response[:items].each do |item|
+  puts item[:title]
+  puts item[:link]
+end
+
 ```
 
 The search is executed on the websites you have specified in the Custom Search settings
