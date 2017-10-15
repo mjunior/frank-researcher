@@ -1,0 +1,333 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - ChatBot",
+    "totalResults": "3220000",
+    "searchTerms": "ChatBot",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017576662512468239146:omuauf_lfve"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - ChatBot",
+    "totalResults": "3220000",
+    "searchTerms": "ChatBot",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017576662512468239146:omuauf_lfve"
+   }
+  ]
+ },
+ "context": {
+  "title": "CS Curriculum",
+  "facets": [
+   [
+    {
+     "label": "lectures",
+     "anchor": "Lectures",
+     "label_with_op": "more:lectures"
+    }
+   ],
+   [
+    {
+     "label": "assignments",
+     "anchor": "Assignments",
+     "label_with_op": "more:assignments"
+    }
+   ],
+   [
+    {
+     "label": "reference",
+     "anchor": "Reference",
+     "label_with_op": "more:reference"
+    }
+   ]
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.43399,
+  "formattedSearchTime": "0.43",
+  "totalResults": "3220000",
+  "formattedTotalResults": "3,220,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ansaf Salleb-Aouissi receives provost award to build MOOC chatbot ...",
+   "htmlTitle": "Ansaf Salleb-Aouissi receives provost award to build MOOC \u003cb\u003echatbot\u003c/b\u003e ...",
+   "link": "https://www.cs.columbia.edu/2017/ansaf-salleb-aouissi-receives-hybrid-provost-award-to-build-mooc-chatbot/",
+   "displayLink": "www.cs.columbia.edu",
+   "snippet": "Jul 17, 2017 ... Though chatbots are currently in use—including by some MOOCs—machine \nquestion and answering is far from solved; it is in fact a hard ...",
+   "htmlSnippet": "Jul 17, 2017 \u003cb\u003e...\u003c/b\u003e Though \u003cb\u003echatbots\u003c/b\u003e are currently in use—including by some MOOCs—machine \u003cbr\u003e\nquestion and answering is far from solved; it is in fact a hard&nbsp;...",
+   "cacheId": "WHvSW8_BnFEJ",
+   "formattedUrl": "https://www.cs.columbia.edu/.../ansaf-salleb-aouissi-receives-hybrid-provost- award-to-build-mooc-chatbot/",
+   "htmlFormattedUrl": "https://www.cs.columbia.edu/.../ansaf-salleb-aouissi-receives-hybrid-provost- award-to-build-mooc-\u003cb\u003echatbot\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "150",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-iRbrjkwnSvLH8Xj_i0ZHIHxFUe3JBojCj3J9rnp1ZscxJikwQJlB2plj"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://www.cs.columbia.edu/wp-content/uploads/2016/02/cropped-favicon-270x270.png",
+      "og:url": "www.cs.columbia.eduansaf-salleb-aouissi-receives-hybrid-provost-award-to-build-mooc-chatbot",
+      "og:type": "article",
+      "og:title": "Ansaf Salleb-Aouissi receives provost award to build MOOC chatbot",
+      "og:description": "When 108,000 students enrolled in her inaugural online edX artificial intelligence course, Ansaf Salleb-Aouissi and two assistants divided up among &hellip; \u003ca href=\"https://www.cs.columbia.edu/2017/ansaf-salleb-aouissi-receives-hybrid-provost-award-to-build-mooc-chatbot/\" class=\"more-link\"\u003eContinue reading \u003cspan class=\"screen-reader-text\"\u003eAnsaf Salleb-Aouissi receives provost award to build MOOC chatbot\u003c/span\u003e\u003c/a\u003e",
+      "og:image": "https://www.cs.columbia.edu/wp-content/uploads/2017/07/Ansaf-511x300-150x150.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cs.columbia.edu/wp-content/uploads/2017/07/Ansaf-511x300-150x150.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "12 Chat Bots",
+   "htmlTitle": "12 Chat Bots",
+   "link": "http://www.cs.dartmouth.edu/~ccpalmer/teaching/cs89/Content/Lectures/12-ChatBots/",
+   "displayLink": "www.cs.dartmouth.edu",
+   "snippet": "Sep 10, 2017 ... Someone to talk to ...Rise of the ChatBots InfographicThe original ChatBot \nchallenge came from Turing and his test.1966 Eliza1972 Parry came ...",
+   "htmlSnippet": "Sep 10, 2017 \u003cb\u003e...\u003c/b\u003e Someone to talk to ...Rise of the \u003cb\u003eChatBots\u003c/b\u003e InfographicThe original \u003cb\u003eChatBot\u003c/b\u003e \u003cbr\u003e\nchallenge came from Turing and his test.1966 Eliza1972 Parry came&nbsp;...",
+   "cacheId": "sLKOKlzGuiAJ",
+   "formattedUrl": "www.cs.dartmouth.edu/~ccpalmer/teaching/cs89/.../12-ChatBots/",
+   "htmlFormattedUrl": "www.cs.dartmouth.edu/~ccpalmer/teaching/cs89/.../12-\u003cb\u003eChatBots\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rawal Khirodkar Academic Website",
+   "htmlTitle": "Rawal Khirodkar Academic Website",
+   "link": "https://www.cse.iitb.ac.in/~rawalkhirodkar/",
+   "displayLink": "www.cse.iitb.ac.in",
+   "snippet": "This learning is further used to create the aiml files to help chatbot understand \nand answer questions asked by the user in future. Rawal Khirodkar, Animesh ...",
+   "htmlSnippet": "This learning is further used to create the aiml files to help \u003cb\u003echatbot\u003c/b\u003e understand \u003cbr\u003e\nand answer questions asked by the user in future. Rawal Khirodkar, Animesh&nbsp;...",
+   "cacheId": "rz42JRVAAk0J",
+   "formattedUrl": "https://www.cse.iitb.ac.in/~rawalkhirodkar/",
+   "htmlFormattedUrl": "https://www.cse.iitb.ac.in/~rawalkhirodkar/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzWf25KeJSLzzEKAtO9OfVJiLuEcR4OIOno56nYVoQz_66-_rvq7POCU8"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "41BC4A74FE03A403154B3B3D51536F3D",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cse.iitb.ac.in/~rawalkhirodkar/me.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chatbot Design - Reasoning about design options using i* and ...",
+   "htmlTitle": "\u003cb\u003eChatbot\u003c/b\u003e Design - Reasoning about design options using i* and ...",
+   "link": "http://www.cs.toronto.edu/~alexei/pub/istar2017.pdf",
+   "displayLink": "www.cs.toronto.edu",
+   "snippet": "Springer-Verlag Berlin Heidelberg 2011. Chatbot Design - Reasoning about \ndesign options using i* and process architecture. Zia Babar1, Alexei \nLapouchnian2, ...",
+   "htmlSnippet": "Springer-Verlag Berlin Heidelberg 2011. \u003cb\u003eChatbot\u003c/b\u003e Design - Reasoning about \u003cbr\u003e\ndesign options using i* and process architecture. Zia Babar1, Alexei \u003cbr\u003e\nLapouchnian2,&nbsp;...",
+   "cacheId": "_pZlBsg8unAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.cs.toronto.edu/~alexei/pub/istar2017.pdf",
+   "htmlFormattedUrl": "www.cs.toronto.edu/~alexei/pub/istar2017.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Zia Babar",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "D:20170509200516-04'00'",
+      "moddate": "D:20170509200516-04'00'",
+      "producer": "Microsoft® Word 2016"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chappie - A Semi-automatic Intelligent Chatbot",
+   "htmlTitle": "Chappie - A Semi-automatic Intelligent \u003cb\u003eChatbot\u003c/b\u003e",
+   "link": "https://www.cse.iitb.ac.in/~bibek/WriteUP_2016.pdf",
+   "displayLink": "www.cse.iitb.ac.in",
+   "snippet": "Chappie - A Semi-automatic Intelligent Chatbot. Bibek Behera. Magictiger. \nIndiranagr Double Road. Bangalore 560038, India bibek@magictiger.com. \nAbstract.",
+   "htmlSnippet": "Chappie - A Semi-automatic Intelligent \u003cb\u003eChatbot\u003c/b\u003e. Bibek Behera. Magictiger. \u003cbr\u003e\nIndiranagr Double Road. Bangalore 560038, India bibek@magictiger.com. \u003cbr\u003e\nAbstract.",
+   "cacheId": "hUCF4qwNhTMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "https://www.cse.iitb.ac.in/~bibek/WriteUP_2016.pdf",
+   "htmlFormattedUrl": "https://www.cse.iitb.ac.in/~bibek/WriteUP_2016.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "pdfTeX-1.40.15",
+      "creator": "TeX",
+      "creationdate": "D:20160212075311Z",
+      "moddate": "D:20160212075311Z",
+      "fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) kpathsea version 6.2.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A2: Watson Conversation ChatBot",
+   "htmlTitle": "A2: Watson Conversation \u003cb\u003eChatBot\u003c/b\u003e",
+   "link": "http://www.cs.dartmouth.edu/~ccpalmer/teaching/cs89/Content/Assignments/A2-ConvMaster/",
+   "displayLink": "www.cs.dartmouth.edu",
+   "snippet": "Sep 10, 2017 ... Unzip the ConversationMaster_expedited.zip file which contains the instructions \nfor how to develop a ChatBot using the IBM Watson ...",
+   "htmlSnippet": "Sep 10, 2017 \u003cb\u003e...\u003c/b\u003e Unzip the ConversationMaster_expedited.zip file which contains the instructions \u003cbr\u003e\nfor how to develop a \u003cb\u003eChatBot\u003c/b\u003e using the IBM Watson&nbsp;...",
+   "cacheId": "JIQ1Ig20p9sJ",
+   "formattedUrl": "www.cs.dartmouth.edu/~ccpalmer/teaching/cs89/.../A2-ConvMaster/",
+   "htmlFormattedUrl": "www.cs.dartmouth.edu/~ccpalmer/teaching/cs89/.../A2-ConvMaster/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ppt",
+   "htmlTitle": "ppt",
+   "link": "https://www.cse.iitb.ac.in/~cs626-449/cs626-460-2008/public_html/2008/student_seminars/group7-Chatbots.ppt",
+   "displayLink": "www.cse.iitb.ac.in",
+   "snippet": "A chatbot is a conversational agent that interacts with users using natural ... \nNumerous applications of chatbots such as Customer Service, call centers etc.",
+   "htmlSnippet": "A \u003cb\u003echatbot\u003c/b\u003e is a conversational agent that interacts with users using natural ... \u003cbr\u003e\nNumerous applications of \u003cb\u003echatbots\u003c/b\u003e such as Customer Service, call centers etc.",
+   "cacheId": "vDIw2gnydZwJ",
+   "mime": "application/vnd.ms-powerpoint",
+   "fileFormat": "Microsoft Powerpoint",
+   "formattedUrl": "https://www.cse.iitb.ac.in/~cs626-449/.../group7-Chatbots.ppt",
+   "htmlFormattedUrl": "https://www.cse.iitb.ac.in/~cs626-449/.../group7-\u003cb\u003eChatbots\u003c/b\u003e.ppt",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Chris Nokleberg",
+      "last saved by": "Mohit",
+      "revision number": "21",
+      "edit minutes": "29",
+      "last saved date": "4/15/2008 12:26:11",
+      "word count": "1364",
+      "presentation format": "Custom",
+      "count bytes": "679562",
+      "count paragraphs": "261",
+      "count slides": "34",
+      "count notes": "32",
+      "count slides hidden": "0",
+      "count mm clips": "0",
+      "scale crop": "no",
+      "links dirty": "no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CS378 Autonomous Multiagent Systems Spring 2005",
+   "htmlTitle": "CS378 Autonomous Multiagent Systems Spring 2005",
+   "link": "https://www.cs.utexas.edu/~pstone/Courses/378spring05/resources/week14b-pp4.pdf",
+   "displayLink": "www.cs.utexas.edu",
+   "snippet": "How was the chatbot lecture? Peter Stone. Page 6. Logistics. • Project code and \nexecutables due Tuesday! • How was the chatbot lecture? • Alice and the Turing\n ...",
+   "htmlSnippet": "How was the \u003cb\u003echatbot\u003c/b\u003e lecture? Peter Stone. Page 6. Logistics. • Project code and \u003cbr\u003e\nexecutables due Tuesday! • How was the \u003cb\u003echatbot\u003c/b\u003e lecture? • Alice and the Turing\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "UMmEO6QE9qAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "https://www.cs.utexas.edu/~pstone/Courses/.../week14b-pp4.pdf",
+   "htmlFormattedUrl": "https://www.cs.utexas.edu/~pstone/Courses/.../week14b-pp4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Prof: Peter Stone  TA: Mazda Ahmadi    Department of Computer Sciences  The University of Texas at Austin",
+      "title": "CS378  Autonomous Multiagent Systems Spring 2005",
+      "creator": "LaTeX with hyperref package",
+      "producer": "pdfTeX-1.10b extended by PPower4 V0.9.4",
+      "creationdate": "D:20050428000200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "15 Conversation Service - Intents and Entities",
+   "htmlTitle": "15 Conversation Service - Intents and Entities",
+   "link": "http://www.cs.dartmouth.edu/~ccpalmer/teaching/cs89/Content/Lectures/15-ConvAgent-IntEnt/",
+   "displayLink": "www.cs.dartmouth.edu",
+   "snippet": "Sep 10, 2017 ... Suppose we are designing a travel agent chatbot. One of the things the driver \nmight want to do to book a flight or a rental car. When the user ...",
+   "htmlSnippet": "Sep 10, 2017 \u003cb\u003e...\u003c/b\u003e Suppose we are designing a travel agent \u003cb\u003echatbot\u003c/b\u003e. One of the things the driver \u003cbr\u003e\nmight want to do to book a flight or a rental car. When the user&nbsp;...",
+   "cacheId": "ZmTQ4DlqfdoJ",
+   "formattedUrl": "www.cs.dartmouth.edu/~ccpalmer/teaching/.../15-ConvAgent-IntEnt/",
+   "htmlFormattedUrl": "www.cs.dartmouth.edu/~ccpalmer/teaching/.../15-ConvAgent-IntEnt/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "COS 116 The Computational Universe Sample Chatbot Transcripts",
+   "htmlTitle": "COS 116 The Computational Universe Sample \u003cb\u003eChatbot\u003c/b\u003e Transcripts",
+   "link": "http://www.cs.princeton.edu/courses/archive/spr06/cos116/Sample_Chatbot_Transcripts.pdf",
+   "displayLink": "www.cs.princeton.edu",
+   "snippet": "Sample Chatbot Transcripts. Sample transcripts of conversations with the \nchatbots at TuringHub. (http://www.turinghub.com). The human's responses are \nprinted ...",
+   "htmlSnippet": "Sample \u003cb\u003eChatbot\u003c/b\u003e Transcripts. Sample transcripts of conversations with the \u003cbr\u003e\n\u003cb\u003echatbots\u003c/b\u003e at TuringHub. (http://www.turinghub.com). The human&#39;s responses are \u003cbr\u003e\nprinted&nbsp;...",
+   "cacheId": "M7IqwZ56viYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.cs.princeton.edu/courses/.../Sample_Chatbot_Transcripts.pdf",
+   "htmlFormattedUrl": "www.cs.princeton.edu/courses/.../Sample_\u003cb\u003eChatbot\u003c/b\u003e_Transcripts.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060502062740-04'00'",
+      "author": "Alex Halderman",
+      "creator": "Acrobat PDFMaker 7.0.7 for Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20060502062744-04'00'",
+      "company": "Princeton University",
+      "sourcemodified": "D:20060502102720",
+      "title": "LAB 1:"
+     }
+    ]
+   }
+  }
+ ]
+}
